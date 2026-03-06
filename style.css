@@ -170,19 +170,15 @@
         font-size: 25px;
     }
 
-    .short-info-text {
-        display: flex;
-    }
-
     .short-info p {
         width: 150px;
         font-weight: 400;
         font-size: 18px;
-        margin-left: 100px;
+        margin-left: 50px;
     }
 
     .short-info img {
         width: 222px;
-        height: 194px;
+        height: 194px;       
     }
-}    
+}
